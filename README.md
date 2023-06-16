@@ -1,5 +1,5 @@
 # IncidentHandlersJournal
-Date: Tuesday 9.00am         Entry: 1
+Date: July 23, 2024       Entry: #1
 Decription: Initial documentation of a security incident involving a ransomware attack on a small U.S. health care clinic.
 
 Tool(s) used: None
